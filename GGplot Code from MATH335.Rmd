@@ -1,7 +1,5 @@
----
+ ---
 title: "How Humans See Data - Notes"
-author: "John Rauser"
-date: "10/10/2016"
 output: html_document
 ---
 
@@ -21,7 +19,7 @@ set.seed(7777)
 
 # About this document
 
-This document contains all the code I used to generate the images for my presentation How Humans See Data, first presented at [Velocity Amsterdam 2016](http://conferences.oreilly.com/velocity/devops-web-performance-eu/public/schedule/detail/54354).  This document is not meant to stand alone -- it has very little explanatory text.  It is meant to be a reference for people who want to see how I made the plots from the presentation. 
+This document contains all the code I used to generate the images for John Rauser's presentation How Humans See Data, first presented at [Velocity Amsterdam 2016](http://conferences.oreilly.com/velocity/devops-web-performance-eu/public/schedule/detail/54354).  This document is not meant to stand alone -- it has very little explanatory text.  It is meant to be a reference for people who want to see how I made the plots from the presentation. 
 
 The source code is on github at [https://github.com/jrauser/writing/tree/master/how_humans_see_data](https://github.com/jrauser/writing/tree/master/how_humans_see_data).  The rendered document is available on rpubs at [http://rpubs.com/jrauser/hhsd_notes](http://rpubs.com/jrauser/hhsd_notes).
 
